@@ -1,1 +1,1 @@
-Leanred how to create, move, modify, branch in git so far. Git takes Snapshots of files.
+Learned how to create, move, modify, branch in git so far. Git takes Snapshots of files.
